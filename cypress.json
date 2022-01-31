@@ -1,0 +1,9 @@
+{
+  "baseUrl": "http://todo-app-barkend.herokuapp.com",
+  "viewportWidth": 1440,
+  "viewportHeight": 660,
+  "projectId": "rsmmq2",
+  "defaultCommandTimeout": 20000,
+  "chromeWebSecurity": false,
+  "video": false
+}
